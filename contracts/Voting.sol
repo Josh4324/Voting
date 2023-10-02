@@ -169,7 +169,7 @@ contract Voting {
 
     // Public Functions
     /*
-     *  @notice get Voting Result
+     *  @notice get Voting Project Items List and get Voting Result
      *  @param voteProjectId, The id of the voting project.
      *  @dev any one can get the voting result.
      */
